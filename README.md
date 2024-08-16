@@ -22,7 +22,7 @@ I am currently pursuing a Ph.D. in Statistics at Florida State University, where
 - **Tools:** R
 - **[Read the full report](https://github.com/yourusername/repo2/blob/main/Longitudinal_Analysis.pdf)**
 
-### 3. [BMI and Dementia: A Longitudinal Study Using GEE and Survival Analysis](https://github.com/YounghwanC/Longitudinal-Study-BMI_Dementia.git)
+### 3. [BMI and Dementia: A Longitudinal Study Using GEE and Survival Analysis](https://github.com/YounghwanC/longitudinal-bmi-dementia.git)
 - **Summary:** Analyzed the relationship between BMI and dementia using Generalized Estimating Equations (GEE) and Survival Analysis on a dataset of over 38,000 individuals.
 - **Tools:** R
 - **[Read the full report](https://github.com/yourusername/repo3/blob/main/BMI_Dementia_Study.pdf)**
