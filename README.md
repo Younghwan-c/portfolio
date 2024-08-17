@@ -31,7 +31,7 @@ I am currently pursuing a Ph.D. in Statistics at Florida State University, where
 ## Skills
 
 - **Programming Languages:** Python, R, Matlab, SQL, C++
-- **Data Analysis:** Machine Learning, Computational Methods, MCMC, Bayesian Analysis, Linear Mixed Models, Survival Analysis
+- **Data Analysis:** Machine Learning, Computational Methods, MCMC, Bayesian Analysis, Linear Models, Survival Analysis and more
 - **Tools & Technologies:** TensorFlow, Keras, AWS, Azure, Google Cloud, Hadoop, Spark, Tableau
 
 ## Experience
