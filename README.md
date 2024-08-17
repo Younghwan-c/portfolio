@@ -32,7 +32,7 @@ I am currently pursuing a Ph.D. in Statistics at Florida State University, where
 
 - **Programming Languages:** Python, R, Matlab, SQL, C++
 - **Data Analysis:** Machine Learning, Computational Methods, MCMC, Bayesian Analysis, Linear Models, Survival Analysis and more
-- **Tools & Technologies:** TensorFlow, Keras, AWS, Azure, Google Cloud, Hadoop, Spark, Tableau
+- **Tools & Technologies:** TensorFlow, Keras, AWS, Azure, Google Cloud, Hadoop, Spark, Tableau and more
 
 ## Experience
 - **Instructor, Florida State University**: Taught undergraduate and graduate courses in statistics and machine learning.
