@@ -8,7 +8,7 @@ I am currently pursuing a Ph.D. in Statistics at Florida State University, where
 - **Email:** yhcho9270@gmail.com
 - **LinkedIn:** [Younghwan Brian Cho](https://www.linkedin.com/in/yourusername)
 - **GitHub:** [github.com/YounghwanC](https://github.com/YounghwanC)
-- **Website:** [yourwebsite.com](https://younghwanc.github.io/)
+- **Website:** [https://younghwanc.github.io/](https://younghwanc.github.io/)
 
 ## Projects
 
