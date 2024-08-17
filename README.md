@@ -7,8 +7,8 @@ I am currently pursuing a Ph.D. in Statistics at Florida State University, where
 
 - **Email:** yhcho9270@gmail.com
 - **LinkedIn:** [Younghwan Brian Cho](https://www.linkedin.com/in/yourusername)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **Website:** [yourwebsite.com](https://yourwebsite.com)
+- **GitHub:** [github.com/YounghwanC](https://github.com/YounghwanC)
+- **Website:** [yourwebsite.com](https://younghwanc.github.io/)
 
 ## Projects
 
@@ -16,30 +16,30 @@ I am currently pursuing a Ph.D. in Statistics at Florida State University, where
 - **Summary:** Applied RJMCMC to optimize model selection in linear regression, demonstrating proficiency in Bayesian analysis and computational statistics.
 - **Tools:** MATLAB
 
-### 2. [Longitudinal Analysis on Various Factors for Human Immune System](https://github.com/yourusername/repo2)
-- **Summary:** Conducted a longitudinal analysis on the effects of various factors on CD4+ cell counts in HIV patients using Linear Mixed Models (LMM).
-- **Tools:** R
-
 ### 3. [BMI and Dementia: A Longitudinal Study Using GEE and Survival Analysis](https://github.com/YounghwanC/longitudinal-bmi-dementia.git)
 - **Summary:** Analyzed the relationship between BMI and dementia using Generalized Estimating Equations (GEE) and Survival Analysis on a dataset of over 38,000 individuals.
 - **Tools:** R
 
-### 4. [Feature Selection in Quadratic Discriminant Analysis](https://github.com/yourusername/repo4)
-- **Summary:** Developed and implemented a feature selection algorithm for Quadratic Discriminant Analysis, showcasing my skills in statistical learning and Python programming.
+### 4. [Discriminative vs. QDA: A Comparative Analysis](https://github.com/YounghwanC/discriminative-vs-QDA-comparative-analysis.git)
+- **Summary:** Compared and analyzed the performance of discriminative models versus Quadratic Discriminant Analysis (QDA) across various data complexities.
 - **Tools:** Python
+
+### 4. [Longitudinal Analysis on Various Factors for Human Immune System](https://github.com/YounghwanC/longitudinal-analysis.git)
+- **Summary:** Conducted a longitudinal analysis on the effects of various factors on CD4+ cell counts in HIV patients using Linear Mixed Models (LMM).
+- **Tools:** R
 
 ## Skills
 
 - **Programming Languages:** Python, R, Matlab, SQL, C++
-- **Data Analysis:** Bayesian Analysis, MCMC, Linear Mixed Models, Survival Analysis
-- **Tools & Technologies:** Hadoop, Spark, TensorFlow, Keras, AWS, Azure, Google Cloud
+- **Data Analysis:** Machine Learning, Computational Methods, MCMC, Bayesian Analysis, Linear Mixed Models, Survival Analysis
+- **Tools & Technologies:** TensorFlow, Keras, AWS, Azure, Google Cloud, Hadoop, Spark, Tableau
 
 ## Experience
 - **Instructor, Florida State University**: Taught undergraduate and graduate courses in statistics and machine learning.
 - **Graduate Teaching Assistant, Florida State University**: Supported graduate-level courses in machine learning, time series, and nonparametric statistics.
 
 ## Contact
-I am always open to discussing new opportunities and collaborations. Feel free to reach out via [email](mailto:yhcho9270@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+I am always open to discussing new opportunities and collaborations. Feel free to reach out via [yhcho9270@gmail.com](mailto:yhcho9270@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
 
 ---
 
