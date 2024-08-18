@@ -14,7 +14,7 @@ I am currently pursuing a Ph.D. in Statistics at Florida State University, where
 
 ### 1. [Reversible Jump Markov Chain Monte Carlo Algorithm for Model Selection](https://github.com/YounghwanC/RJMCMC-algorithm.git)
 - **Summary:** Applied RJMCMC to optimize model selection in linear regression, demonstrating proficiency in Bayesian analysis and computational statistics.
-- **Tools:** MATLAB
+- **Tools:** MATLAB, Python
 
 ### 3. [BMI and Dementia: A Longitudinal Study Using GEE and Survival Analysis](https://github.com/YounghwanC/longitudinal-bmi-dementia.git)
 - **Summary:** Analyzed the relationship between BMI and dementia using Generalized Estimating Equations (GEE) and Survival Analysis on a dataset of over 38,000 individuals.
