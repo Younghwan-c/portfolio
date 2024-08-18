@@ -6,7 +6,6 @@ Welcome to my portfolio! Here, you will find a curated selection of my work, inc
 I am currently pursuing a Ph.D. in Statistics at Florida State University, where I have developed a strong foundation in data science, machine learning, and computational statistics. My research and projects demonstrate my ability to apply complex algorithms and models to solve real-world problems.
 
 - **Email:** yhcho9270@gmail.com, ybcho@fsu.edu
-- **LinkedIn:** [Younghwan Brian Cho](https://www.linkedin.com/in/yourusername)
 - **GitHub:** [github.com/YounghwanC](https://github.com/YounghwanC)
 - **Website:** [https://younghwanc.github.io/](https://younghwanc.github.io/)
 
@@ -60,7 +59,7 @@ I am currently pursuing a Ph.D. in Statistics at Florida State University, where
 
 
 ## Contact
-I am always open to discussing new opportunities and collaborations. Feel free to reach out via [yhcho9270@gmail.com](mailto:yhcho9270@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+I am always open to discussing new opportunities and collaborations. Feel free to reach out via [yhcho9270@gmail.com](mailto:yhcho9270@gmail.com)
 
 ---
 
