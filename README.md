@@ -59,7 +59,7 @@ I am currently pursuing a Ph.D. in Statistics at Florida State University, where
 
 
 ## Contact
-I am always open to discussing new opportunities and collaborations. Feel free to reach out via [yhcho9270@gmail.com](mailto:yhcho9270@gmail.com)
+I am always open to discussing new opportunities and collaborations. Feel free to reach out via [yhcho9270@gmail.com], [ybcho@fsu.edu]
 
 ---
 
