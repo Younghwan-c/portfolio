@@ -49,11 +49,15 @@ I am currently pursuing a Ph.D. in Statistics at Florida State University, where
 - **Pattern Recognition and Machine Learning** by Christopher M. Bishop
   - A widely respected text that covers the fundamentals of pattern recognition and machine learning, with a strong emphasis on probabilistic models.
 
+- **Python for Data Analysis** by Wes McKinney
+  - Offers practical guidance on data manipulation, analysis, and visualization using Python, with a strong focus on the Pandas library.
+
 - **Data Structure and Algorithm in Python** by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser
   - An essential guide for understanding data structures and algorithms, with practical implementations in Python.
 
 - **Learning SQL** by Alan Beaulieu
   - A practical introduction to SQL, this book provides a solid foundation in database management and query language.
+
 
 ## Contact
 I am always open to discussing new opportunities and collaborations. Feel free to reach out via [yhcho9270@gmail.com](mailto:yhcho9270@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
